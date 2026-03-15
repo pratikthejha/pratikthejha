@@ -30,4 +30,4 @@ It's been **2 years** since I started coding. I began with HTML on my phone, nev
 [![GDScript](https://img.shields.io/badge/GDScript-000000?style=for-the-badge&logo=godot&logoColor=white)](https://godotengine.org/)
 
 # Github trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pratik04jha&column=8&margin-w=15&margin-h=15&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pratikthejha&column=8&margin-w=15&margin-h=15&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
