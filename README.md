@@ -7,9 +7,8 @@ I enjoy creating games for fun, especially 2D games, using the **Godot engine** 
 It's been **2 years** since I started coding. I began with HTML on my phone, never imagining I would come this far so quickly. I'm still in school, counting down the days until I can fully dive into the projects I want to build. In school I am in 12th grade, standing right at the edge of this so called school life, can’t wait to finally break free and do everything I couldn’t because of it
 
 # Social media handles
-- [X (Formaly Twitter)](https://x.com/gravitonion)
+- [X (Formaly Twitter)](https://x.com/pratikthejha)
 - [LinkedIn](https://www.linkedin.com/in/pratikthejha/)
-
 
 # Bulletproof techstack
 ### Webstack >> 
